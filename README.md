@@ -19,4 +19,4 @@ ideias ou outros em alguma aplicação ou site. Ao realizar o processo de feedba
 * Tailwind
 
 ### Acesse:
-![Feedwidget](https://nlw-feedwidget.vercel.app/)
+[Feedwidget](https://nlw-feedwidget.vercel.app/)
